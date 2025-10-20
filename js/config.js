@@ -1,7 +1,7 @@
 // Clerk configuration
 export const CLERK_CONFIG = {
-  publishableKey: 'pk_test_cG9wdWxhci1tb25rZmlzaC04My5jbGVyay5hY2NvdW50cy5kZXYk', // Replace with your actual key
-  frontendApi: 'popular-monkfish-83.clerk.accounts.dev' // e.g., 'clerk.your-app.123.lcl.dev'
+  publishableKey: 'pk_live_Y2xlcmsucmVzdW1lLmtheWFjdW5leXQuY29tJA', // Production publishable key
+  frontendApi: 'clerk.resume.kayacuneyt.com' // Production frontend API
 };
 
 // LocalStorage keys
